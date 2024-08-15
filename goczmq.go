@@ -5,12 +5,13 @@
 // abstractions such as channels and io.ReadWriter interface support.
 //
 // "Tell them I was a writer.
-//  A maker of software.
-//  A humanist. A father.
-//  And many things.
-//  But above all, a writer.
-//  Thank You. :)
-//  - Pieter Hintjens
+//
+//	A maker of software.
+//	A humanist. A father.
+//	And many things.
+//	But above all, a writer.
+//	Thank You. :)
+//	- Pieter Hintjens
 package goczmq
 
 /*

@@ -1,3 +1,4 @@
+//go:build draft
 // +build draft
 
 package goczmq

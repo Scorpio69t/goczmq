@@ -891,4 +891,3 @@ func LastEndpoint(s *Sock) string {
 	val := C.zsock_last_endpoint(unsafe.Pointer(s.zsockT))
 	return C.GoString(val)
 }
-
